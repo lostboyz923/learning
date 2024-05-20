@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-20T10:57:17-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Meta Wizard Learning Page</title><link href="http://localhost:4000/2024/05/20/meta-wizard.html" rel="alternate" type="text/html" title="Meta Wizard Learning Page" /><published>2024-05-20T00:00:00-04:00</published><updated>2024-05-20T00:00:00-04:00</updated><id>http://localhost:4000/2024/05/20/meta-wizard</id><content type="html" xml:base="http://localhost:4000/2024/05/20/meta-wizard.html"><![CDATA[<p><em>testing</em></p>
+
+<p><em>mrkdown is great for taking notes and documentation</em></p>
+
+<p>==the double bind will get you ever time==</p>
+
+<p>##this makes text bigger if i remember correctly</p>
+
+<h1 id="_configyml">_config.yml</h1>
+<p>title: My Static Site
+author: Your Name</p>
+
+<h1 id="site-settings">Site settings</h1>
+<p>url: https://example.com
+baseurl: “”</p>
+
+<h1 id="pagination">Pagination</h1>
+<p>paginate: 5</p>
+
+<h1 id="markdown-engine">Markdown engine</h1>
+<p>markdown: kramdown</p>
+
+<h1 id="sass">Sass</h1>
+<p>sass:
+  sass_dir: assets
+  compressed: true</p>]]></content><author><name>Miller Time</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Page-1</title><link href="http://localhost:4000/jekyll/update/2024/05/18/page1.html" rel="alternate" type="text/html" title="Page-1" /><published>2024-05-18T01:50:41-04:00</published><updated>2024-05-18T01:50:41-04:00</updated><id>http://localhost:4000/jekyll/update/2024/05/18/page1</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/05/18/page1.html"><![CDATA[<p>!</p>
+
+<p>So this is my first post.  We can now start practicing with jekyll and out writing skills. 
+So tomorrow we shall start writing our first post. We will begin this schedule of writing in the mornings one blog poast per day. We must strengthen our writing skills. There are 2 types of people. Those who can write and those who can not. As well as there are those who can weld and those who can not. I wish to learn how to write in jekyll as well as in markdown.  I know markdown farily well but I wish to learn how to write in jekyll. I also wish to learn how to write better like my friend Abigail.  One of the best writers i know. Sure we won’t be as good as she is, but we can learn better comma placement as well as better NGP techniques and more.
+Knowing how to write a good story that is able to grab the reader and place them in another place of their own mind is something we wish to master. The power of writing is something that has always been a part of my life.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[!]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2024/05/18/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-05-18T01:50:41-04:00</published><updated>2024-05-18T01:50:41-04:00</updated><id>http://localhost:4000/jekyll/update/2024/05/18/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/05/18/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">black-and-gold</title><link href="http://localhost:4000/jekyll/update/2024/05/18/black-and-gold.html" rel="alternate" type="text/html" title="black-and-gold" /><published>2024-05-18T01:50:41-04:00</published><updated>2024-05-18T01:50:41-04:00</updated><id>http://localhost:4000/jekyll/update/2024/05/18/black-and-gold</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/05/18/black-and-gold.html"><![CDATA[<p>There are somethings done</p>
+
+<p>in the midnight son</p>
+
+<p>by the men who wear black and gold</p>
+
+<p>whose secret tails leave secret trails.</p>
+
+<p>The queerest day evil ever did see</p>
+
+<p>was the day they left</p>
+
+<p>the SIG by the sea…</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[There are somethings done]]></summary></entry></feed>
