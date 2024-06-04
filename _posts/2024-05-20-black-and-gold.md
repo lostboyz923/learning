@@ -13,10 +13,15 @@ in the midnight son
 
 by the men who wear black and gold 
 
-whose secret tails leave secret trails. 
+whose secret tails leave secret trails
+
+that will make your blood run cold.
 
 The queerest day evil ever did see
 
 was the day they left
 
 the SIG by the sea...
+
+
+
