@@ -1,0 +1,42 @@
+[ N 2024-06-05 08:00:46.9690 31084/T1 age/Wat/WatchdogMain.cpp:1373 ]: Starting Passenger watchdog...
+[ N 2024-06-05 08:00:46.9790 31087/T1 age/Cor/CoreMain.cpp:1340 ]: Starting Passenger core...
+[ N 2024-06-05 08:00:46.9791 31087/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2024-06-05 08:00:47.0772 31087/T1 age/Cor/CoreMain.cpp:1015 ]: Passenger core online, PID 31087
+2024/06/05 08:00:49 [error] 31103#0: *4 "/home/clyde93/my-new-awesome-site/public/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: _, request: "HEAD / HTTP/1.1", host: "0.0.0.0"
+[ E 2024-06-05 08:00:49.7642 31087/T5 age/Cor/SecurityUpdateChecker.h:521 ]: A security update is available for your version (6.0.10) of Phusion Passenger(R). We strongly recommend upgrading to version 6.0.22.
+[ E 2024-06-05 08:00:49.7643 31087/T5 age/Cor/SecurityUpdateChecker.h:526 ]: Additional security update check information: 
+- [Fixed in 6.0.14] [CVE-2018-25032] zlib before 1.2.12 allows memory corruption when deflating (i.e., when compressing) if the input has many distant matches.
+- [Fixed in 6.0.14] A use after free memory safety issue was introduced in 6.0.12, and fixed in 6.0.14.
+- [Fixed in 6.0.19] [CVE-2023-38545] A vulnerability existed in libcurl before 8.4.0 which was the library used for Passenger proxy functionality. Exploiting this vulnerability would require two preconditions. First a SOCKS5 proxy to be configured for Passenger licensing, anonymous telemetry, or security update check which is not the default but is possible. Second the attacker would need to cause Passenger to use an attacker-controlled URL when performing these requests. Causing Passenger to use non-standard urls requires that the attacker already have code execution on the Passenger host, or control of the Passenger config. If exploited this vulnerability could lead to code execution, due to buffer overflow.
+2024/06/05 08:01:08 [error] 31103#0: *5 "/home/clyde93/my-new-awesome-site/public/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:3000"
+2024/06/05 08:01:08 [error] 31103#0: *5 open() "/home/clyde93/my-new-awesome-site/public/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+
+[ N 2024-06-05 08:02:08.8806 31087/T8 age/Cor/CoreMain.cpp:670 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2024-06-05 08:02:08.8806 31087/T1 age/Cor/CoreMain.cpp:1245 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2024-06-05 08:02:08.8807 31087/T8 Ser/Server.h:901 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2024-06-05 08:02:08.8807 31087/T8 Ser/Server.h:558 ]: [ServerThr.1] Shutdown finished
+[ N 2024-06-05 08:02:08.8807 31087/Ta Ser/Server.h:901 ]: [ServerThr.2] Freed 0 spare client objects
+[ N 2024-06-05 08:02:08.8807 31087/Tc Ser/Server.h:901 ]: [ServerThr.3] Freed 0 spare client objects
+[ N 2024-06-05 08:02:08.8807 31087/Ta Ser/Server.h:558 ]: [ServerThr.2] Shutdown finished
+[ N 2024-06-05 08:02:08.8807 31087/Tc Ser/Server.h:558 ]: [ServerThr.3] Shutdown finished
+[ N 2024-06-05 08:02:08.8808 31087/Ti Ser/Server.h:901 ]: [ServerThr.6] Freed 0 spare client objects
+[ N 2024-06-05 08:02:08.8808 31087/Te Ser/Server.h:901 ]: [ServerThr.4] Freed 0 spare client objects
+[ N 2024-06-05 08:02:08.8808 31087/Ti Ser/Server.h:558 ]: [ServerThr.6] Shutdown finished
+[ N 2024-06-05 08:02:08.8808 31087/Te Ser/Server.h:558 ]: [ServerThr.4] Shutdown finished
+[ N 2024-06-05 08:02:08.8808 31087/Tm Ser/Server.h:901 ]: [ServerThr.8] Freed 0 spare client objects
+[ N 2024-06-05 08:02:08.8808 31087/Tg Ser/Server.h:901 ]: [ServerThr.5] Freed 0 spare client objects
+[ N 2024-06-05 08:02:08.8808 31087/To Ser/Server.h:901 ]: [ServerThr.9] Freed 0 spare client objects
+[ N 2024-06-05 08:02:08.8808 31087/Tm Ser/Server.h:558 ]: [ServerThr.8] Shutdown finished
+[ N 2024-06-05 08:02:08.8808 31087/Tg Ser/Server.h:558 ]: [ServerThr.5] Shutdown finished
+[ N 2024-06-05 08:02:08.8808 31087/To Ser/Server.h:558 ]: [ServerThr.9] Shutdown finished
+[ N 2024-06-05 08:02:08.8808 31087/Tk Ser/Server.h:901 ]: [ServerThr.7] Freed 0 spare client objects
+[ N 2024-06-05 08:02:08.8809 31087/Tk Ser/Server.h:558 ]: [ServerThr.7] Shutdown finished
+[ N 2024-06-05 08:02:08.8809 31087/Tu Ser/Server.h:901 ]: [ServerThr.12] Freed 0 spare client objects
+[ N 2024-06-05 08:02:08.8809 31087/Tu Ser/Server.h:558 ]: [ServerThr.12] Shutdown finished
+[ N 2024-06-05 08:02:08.8809 31087/Tq Ser/Server.h:901 ]: [ServerThr.10] Freed 0 spare client objects
+[ N 2024-06-05 08:02:08.8809 31087/Ts Ser/Server.h:901 ]: [ServerThr.11] Freed 0 spare client objects
+[ N 2024-06-05 08:02:08.8809 31087/Tq Ser/Server.h:558 ]: [ServerThr.10] Shutdown finished
+[ N 2024-06-05 08:02:08.8809 31087/Ts Ser/Server.h:558 ]: [ServerThr.11] Shutdown finished
+[ N 2024-06-05 08:02:08.8811 31087/Tw Ser/Server.h:901 ]: [ApiServer] Freed 0 spare client objects
+[ N 2024-06-05 08:02:08.8811 31087/Tw Ser/Server.h:558 ]: [ApiServer] Shutdown finished
+[ N 2024-06-05 08:02:09.6651 31087/T1 age/Cor/CoreMain.cpp:1325 ]: Passenger core shutdown finished

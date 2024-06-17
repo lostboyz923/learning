@@ -1,0 +1,37 @@
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+}
+p {
+    color: white;
+    font-size: 20px;
+}
+b {
+    color: orange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+}
+p2 {
+    color: rgb(128, 118, 118);
+    font-size: 15px;
+    text-align: center;
+
+}
+p3 {
+   color: orange;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+}
+h1 {
+    color: red;
+    font-size: 50px;
+    text-align: left;
+    padding-left: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
+h3 {
+    color: red;
+    font-size: 60px;
+    text-align: left;
+    padding-left: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; ;
+}

@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-04T07:17:43-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pentagons FIghting Polygons</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Toe-Touching with Rubys &amp;amp; Ruby on Rails</title><link href="http://localhost:4000/jekyll/post/2024/06/03/toe-touch.html" rel="alternate" type="text/html" title="Toe-Touching with Rubys &amp;amp; Ruby on Rails" /><published>2024-06-03T09:44:00-04:00</published><updated>2024-06-03T09:44:00-04:00</updated><id>http://localhost:4000/jekyll/post/2024/06/03/toe-touch</id><content type="html" xml:base="http://localhost:4000/jekyll/post/2024/06/03/toe-touch.html"><![CDATA[<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>                       🗿👽Toe-Touching ON Rubies &amp; Ruby on Rails 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-17T07:11:58-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pentagons FIghting Polygons</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">WHAMMY!</title><link href="http://localhost:4000/2024/06/16/techniques.html" rel="alternate" type="text/html" title="WHAMMY!" /><published>2024-06-16T00:00:00-04:00</published><updated>2024-06-16T00:00:00-04:00</updated><id>http://localhost:4000/2024/06/16/techniques</id><content type="html" xml:base="http://localhost:4000/2024/06/16/techniques.html"><![CDATA[<html>
+<head>
+<title>Onomatopeia</title>
+<link rel="stylesheet" href="/style.css" />
+<script src="/assets/script.js"></script>
+<style>
+    body {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            background-color: black;
+        }
+        p {
+            color: white;
+            font-size: 20px;
+        }
+        b {
+            color: orange;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .p2 {
+            color: rgb(128, 118, 118);
+            font-size: 15px;
+            text-align: center;
+        }
+        .p3 {
+            color: orange;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        h1 {
+            color: red;
+            font-size: 50px;
+            text-align: left;
+            padding-left: 35px;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+        h3 {
+            color: red;
+            font-size: 60px;
+            text-align: left;
+            padding-left: 35px;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+</style>
+</head>
+    
+<img src="/assets/naked_women.gif" width="470" height="300" alt="nakedness" />
+<body>
+
+ <p>Boom! Bang! Pop! Whammy!</p>  
+ <p2>Onomatopoeia is a word or group of words that, when spoken aloud, imitates the sound it produces.</p2>
+ <p2>Roy Lichtenstein was an artist who mastered panting with his medium of pointillism creating artwork that used thousands of dots and lines to create large paintings of onomatopeas</p2>  
+ <p2><b>"boom"</b>, <b>"whammy"</b>and my all time favorite<b>"pop!"</b>
+ <p2>Below is one of Roy's famous paintings showing the onomatopoeia word, <p2><b>"CRACK"</b></p2></p2>
+ <p2>. . . . </p2>
+<img src="/assets/crackRoyLict.jpeg" width="470" height="300" alt="love-writing" /> 
+
+
+<h3>Rhetoric</h3>
+
+      To tell a tale that tantalizes the throngs, try alliteration, whichi refers to using the same sound, usually a consonant, at the beginning of words near each other in a sentence. 
+
+<img src="/assets/roypointalism.jpg" width="470" height="300" alt="pointalism" />
+
+
+<!--Yea this html above looks pretty rough so we can fix this next time we work dis -->
+<body>
+    <h1>Example Heading</h1>
+    <p>Example paragraph.</p>
+    <p class="p2">Another paragraph with class p2.</p>
+    <p class="p3">Another paragraph with class p3.</p>
+</body>
+
+
+&lt;/body&gt;
+&lt;/html&gt;
+</p2></body></html>]]></content><author><name></name></author><category term="linguistics" /><category term="self-study" /><category term="beginner" /><summary type="html"><![CDATA[Onomatopeia]]></summary></entry><entry><title type="html">Toe-Touching with Rubys &amp;amp; Ruby on Rails</title><link href="http://localhost:4000/jekyll/post/2024/06/03/toe-touch.html" rel="alternate" type="text/html" title="Toe-Touching with Rubys &amp;amp; Ruby on Rails" /><published>2024-06-03T09:44:00-04:00</published><updated>2024-06-03T09:44:00-04:00</updated><id>http://localhost:4000/jekyll/post/2024/06/03/toe-touch</id><content type="html" xml:base="http://localhost:4000/jekyll/post/2024/06/03/toe-touch.html"><![CDATA[<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>                       🗿👽Toe-Touching ON Rubies &amp; Ruby on Rails 
 </code></pre></div></div>
 
 <p>Jekyll is a popular choice for creating static websites. It is easy to use, flexible, and fast-loading websites. It can be customized to create different types of websites as well as provide free hosting with GitHub Pages. In this brief essay we will explore how Jekyll works and its benefits.</p>
@@ -31,7 +105,15 @@ The downside to using Jekyll is that it has limited support for Ruby on Rails. J
 <p>All in all jekyll’s website creator is a pretty good tool to use, but if you’re trying to make a more advanced and flashy web site than maybe check out other tools instead. 
 Jekyll is also pretty beginner friendly for new developers which makes it nice since you get to see right away what you’re making and how it works.</p>
 
-<p>Check it out. Thanks for reading…</p>]]></content><author><name></name></author><category term="jekyll" /><category term="post" /><summary type="html"><![CDATA[🗿👽Toe-Touching ON Rubies &amp; Ruby on Rails]]></summary></entry><entry><title type="html">learning while playing</title><link href="http://localhost:4000/jekyll/post/2024/05/26/learning-post.html" rel="alternate" type="text/html" title="learning while playing" /><published>2024-05-26T21:22:00-04:00</published><updated>2024-05-26T21:22:00-04:00</updated><id>http://localhost:4000/jekyll/post/2024/05/26/learning-post</id><content type="html" xml:base="http://localhost:4000/jekyll/post/2024/05/26/learning-post.html"><![CDATA[]]></content><author><name></name></author><category term="jekyll" /><category term="post" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Meta Wizard Learning Page</title><link href="http://localhost:4000/2024/05/20/meta-wizard.html" rel="alternate" type="text/html" title="Meta Wizard Learning Page" /><published>2024-05-20T00:00:00-04:00</published><updated>2024-05-20T00:00:00-04:00</updated><id>http://localhost:4000/2024/05/20/meta-wizard</id><content type="html" xml:base="http://localhost:4000/2024/05/20/meta-wizard.html"><![CDATA[<p><em>testing</em></p>
+<p>Check it out. Thanks for reading…</p>]]></content><author><name></name></author><category term="jekyll" /><category term="post" /><summary type="html"><![CDATA[🗿👽Toe-Touching ON Rubies &amp; Ruby on Rails]]></summary></entry><entry><title type="html">The Man Who Lived At Warner Bros</title><link href="http://localhost:4000/jekyll/post/2024/06/03/i-will-not-loose.html" rel="alternate" type="text/html" title="The Man Who Lived At Warner Bros" /><published>2024-06-03T09:44:00-04:00</published><updated>2024-06-03T09:44:00-04:00</updated><id>http://localhost:4000/jekyll/post/2024/06/03/i-will-not-loose</id><content type="html" xml:base="http://localhost:4000/jekyll/post/2024/06/03/i-will-not-loose.html"><![CDATA[<p>“Memetic Wizardry of the puppetry marked in chaos with love.” This was the tattoo marked on your mommy.  No regets painted the front collar bone of little Tommy Bundles. 
+In life it always seems to be others who assume you’re depressed or that something is wrong. There is always that blind spot held by each and everyone of us humans. To understand the blind spot is to know self. It’s not a question if the blind spot exhists. No it’s not that at all. The blind spot is there and being human guarantees the presence of such a thing regardless.</p>
+
+<p>A man once said, “the man who knows he knows is a fool, shun him. A man who knows he knows not is a student, teach him.”</p>
+
+<p>In this world it’s up to you as to who you become. Before learning to win it’s important we all learn how loose.  Anyone can win a trophy gaining the smiles and energetic applause of others.
+Back hidden beyond the line of sight in an alleyway dwarfed by the massive Warner-Brother Studios sat a man pondering his very own life. Often he would enjoy hidding in the hidden parts of the main alleyway that connected to just one of the main WB studios.  Giant buildings with space, room, and the magic of cinema made up the Warner Brother Studios that were nestled down in Whilmington, North Carolina. Nobody really knows this but down there is North Carolina is where Hollywood’s other stages are located.</p>
+
+<p>to be continued….</p>]]></content><author><name></name></author><category term="jekyll" /><category term="post" /><summary type="html"><![CDATA[“Memetic Wizardry of the puppetry marked in chaos with love.” This was the tattoo marked on your mommy. No regets painted the front collar bone of little Tommy Bundles. In life it always seems to be others who assume you’re depressed or that something is wrong. There is always that blind spot held by each and everyone of us humans. To understand the blind spot is to know self. It’s not a question if the blind spot exhists. No it’s not that at all. The blind spot is there and being human guarantees the presence of such a thing regardless.]]></summary></entry><entry><title type="html">learning while playing</title><link href="http://localhost:4000/jekyll/post/2024/05/26/learning-post.html" rel="alternate" type="text/html" title="learning while playing" /><published>2024-05-26T21:22:00-04:00</published><updated>2024-05-26T21:22:00-04:00</updated><id>http://localhost:4000/jekyll/post/2024/05/26/learning-post</id><content type="html" xml:base="http://localhost:4000/jekyll/post/2024/05/26/learning-post.html"><![CDATA[]]></content><author><name></name></author><category term="jekyll" /><category term="post" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Meta Wizard Learning Page</title><link href="http://localhost:4000/2024/05/20/meta-wizard.html" rel="alternate" type="text/html" title="Meta Wizard Learning Page" /><published>2024-05-20T00:00:00-04:00</published><updated>2024-05-20T00:00:00-04:00</updated><id>http://localhost:4000/2024/05/20/meta-wizard</id><content type="html" xml:base="http://localhost:4000/2024/05/20/meta-wizard.html"><![CDATA[<p><em>testing</em></p>
 
 <p><em>mrkdown is great for taking notes and documentation</em></p>
 
